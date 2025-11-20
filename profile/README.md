@@ -1,6 +1,8 @@
 # 33FIGs
 
-![33FIGs logo](../assets/images/logo.png)
+<p align="center">
+  <img src="https://github.com/33FIGS/.github/blob/main/assets/images/33FIGs-logo.jpg" width="200" alt="Organization Logo">
+</p>
 
 33FIGs is a presence for exploring plugins, themes, and small UI/UX experiments. This organization hosts background tests, prototypes, and demo work - nothing for sale and no active product offerings at this time.
 
